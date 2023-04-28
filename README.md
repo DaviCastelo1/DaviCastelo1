@@ -5,7 +5,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviCastelo1&show_icons=true&theme=dracula&count_private=true)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviCastelo1&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCastelo1&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
